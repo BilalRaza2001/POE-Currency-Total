@@ -1,0 +1,20 @@
+body {
+  -webkit-app-region: drag;
+  background-color: transparent;
+  display: flex;
+  cursor: pointer;
+  justify-content: space-between;
+  text-align: center;
+  color: #edff14;
+  user-select: none;
+}
+#close {
+  padding: 5px;
+  font-size: .8em;
+  color: grey;
+  -webkit-app-region: no-drag;
+}
+
+#close:hover{
+  color: red;
+}

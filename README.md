@@ -9,12 +9,12 @@ Adds a moveable overlay to your screen which will total the amount of divine orb
 4. Open your inventory in path of exile making sure none of it is covered
 5. Press page up on your numpad
 # Requirements
-Javascript:
+**Javascript**:
 * NodeJs 
 * Electron
 * Electron-reload
 
-Python:
+**Python**:
 * Pillow
 * Numpy
 * Matplotlib

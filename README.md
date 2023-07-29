@@ -3,6 +3,8 @@ A personal project which adds an overlay designed for Path of exile that will to
 
 Adds a moveable overlay to your screen which will total the amount of divine orbs and chaos orbs you have in your inventory when you press numpad-pg-up this can be changed in the Currency_type_main.py file, I plan to add the ability to check trade window also currently only works on 1440p plans to make it adjustable for other resolutions though you can do this yourself however will require you to know pixel locations of the inventory corners
 # Setup
+1. create an electron project using npx create-electron-app <name>
+2. copy this project into the newly create project folder
 1. Open the root directory in terminal
 2. Run npm start
 3. Run Currency_type_main.py
